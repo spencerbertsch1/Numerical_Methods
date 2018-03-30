@@ -1,4 +1,4 @@
-#Numerical_Methods
+# Numerical_Methods
 
 <img width="954" alt="sample_output" src="https://user-images.githubusercontent.com/20422614/38121056-e0304132-339a-11e8-8914-9f248ede183c.png">
 

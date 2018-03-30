@@ -2,9 +2,6 @@
 % FINAL EXAM: PY331
 %~~~~~~~~~~~~~~~~~~~
 % Program #3: Fields--- Particles interacting with E and B fields
-%
-%
-%
 % Author: Spencer R Bertsch
 % Date: May 9, 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -13,8 +10,6 @@
 clear
 clc
 %%%%%%%%%%%%%%%%%%%%
-
-
 
 %% Analytical Solution
     

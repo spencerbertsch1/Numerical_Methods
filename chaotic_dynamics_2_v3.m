@@ -3,13 +3,6 @@
 %~~~~~~~~~~~~~~~~~~~
 % Program #2: Double Pendulum and Poincare Map
 %
-%
-%
-%
-%
-%
-%
-%
 % Author: Spencer Bertsch
 % Date: May 9, 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,4 +1,7 @@
 # Numerical_Methods
+
+
+
 Collection of numerical methods programs relating to systems of differential equations found in an applied physics context. 
 A Lorentz Attractor, a chaotic double pendulum, chaotic fractals dynamics including Poincare Maps, the Van Der Pol equation, 
 and a model of an electron fired at a preset velocity into perpendicular electric and magnetic fields are also found here.

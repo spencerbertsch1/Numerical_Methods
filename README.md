@@ -11,4 +11,3 @@ Euler method, the Heun method, 4th Order Rungga Kutta, etc. The files found in t
 equations and visual results of their output. 
 
 All of the code in this repository is in Matlab and was written in Spring 2017. 
-

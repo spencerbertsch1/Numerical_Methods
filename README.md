@@ -21,5 +21,5 @@ All of the code in this repository is in Matlab and was written in Spring 2017.
 * Differential Equation System: Chaotic Double Pendulum
   * [Double Pendulum](https://github.com/spencerbertsch1/Numerical_Methods/blob/master/chaotic_dynamics_2_v3.m)
   
-* Differential Equation System: Charged Particle in Electromagnetic Field 
+* Differential Equation System: Charged Particle fired ad velocity V into perpendicular electric and magnetic field 
   * [EM Field Theory](https://github.com/spencerbertsch1/Numerical_Methods/blob/master/Fields_v1.m)

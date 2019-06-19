@@ -8,6 +8,8 @@ equations and visual results of their output.
 
 All of the code in this repository is in Matlab and was written in Spring 2017. 
 
+<img width="500" alt="sample_output" src="https://user-images.githubusercontent.com/20422614/38121056-e0304132-339a-11e8-8914-9f248ede183c.png">
+
 # Projects 
 
 * Differential Equation System: Van Der Pol Equation
@@ -22,4 +24,4 @@ All of the code in this repository is in Matlab and was written in Spring 2017.
 * Differential Equation System: Charged Particle fired at velocity V into perpendicular electric and magnetic field 
   * [EM Field Theory](https://github.com/spencerbertsch1/Numerical_Methods/blob/master/Fields_v1.m)
 
-<img width="700" alt="sample_output" src="https://user-images.githubusercontent.com/20422614/38121056-e0304132-339a-11e8-8914-9f248ede183c.png">
+

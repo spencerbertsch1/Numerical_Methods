@@ -24,5 +24,3 @@ All of the code in this repository is in Matlab and was written in Spring 2017.
 * Differential Equation System: Charged Particle fired at velocity V into perpendicular electric and magnetic field 
   * [EM Field Theory](https://github.com/spencerbertsch1/Numerical_Methods/blob/master/Fields_v1.m)
 
-
-
